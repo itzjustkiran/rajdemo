@@ -15,8 +15,8 @@ class ViewController: UIViewController {
         
         print("Dinchak! Dinchak!")
         print("Wel come to the Github")
+        print("Thanks!")
     }
-
 
 }
 
