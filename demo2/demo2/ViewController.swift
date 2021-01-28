@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("Dinchak! Dinchak!")
+        print("Wel come to the Github")
     }
 
 
